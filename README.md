@@ -15,7 +15,7 @@ I like to Code, Innovate and Experiment. I am an enthusiastic and a social perso
     <a href="https://www.tatacommunications.com/">Tata Communications</a> - 
     <ul>
       <li>
-        <b>Project Intern </b> - <b>Sept 2020 - March</b>
+        <b>Project Intern </b> - <b>Sept 2020 - March 2021</b>
       </li>
     </ul>
   <li>
