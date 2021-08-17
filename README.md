@@ -123,9 +123,7 @@ I like to Code, Innovate and Experiment. I am an enthusiastic and a social perso
   <br/>
    <a href="https://github.com/dheerajsharma0401"><img alt="Dheeraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dheerajsharma0401&custom_title=Dheeraj%20Sharma's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
 </details>
-
 <br/>
 
 💬  Feel free to reach out to me for consulting in any case i can help or just for some interesting discussion.<br>
