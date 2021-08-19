@@ -25,7 +25,7 @@ I like to Code, Innovate and Experiment. I am an enthusiastic and a social perso
         <b>Management Head and Core committee</b> - <b>May 2020 - June 2021</b>
       </li>
       <li>
-        <b>Executive Community Memeber</b> - <b>Aug 2019 - May 2020</b>
+        <b>Executive Community Member</b> - <b>Aug 2019 - May 2020</b>
       </li>
     </ul>
   </li>
