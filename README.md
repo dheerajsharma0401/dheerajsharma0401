@@ -127,7 +127,7 @@ I like to Code, Innovate and Experiment. I am an enthusiastic and a social perso
 </details>
 <br/>
 
-💬  Feel free to reach out to me for consulting in any case i can help or just for some interesting discussion.<br>
+💬  Feel free to reach out to me for consulting in any case I can help or just for some interesting discussion.<br>
 
 
 ## 🙋‍♀️ Let's Connect
