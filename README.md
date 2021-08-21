@@ -22,7 +22,7 @@ I like to Code, Innovate and Experiment. I am an enthusiastic and a social perso
     <a href="http://ieeevitpune.com/">IEEE VIT Student Chapter</a> - 
     <ul>
       <li>
-        <b>Management Head and Core committee</b> - <b>May 2020 - June 2021</b>
+        <b>Management Head and Core committee Member</b> - <b>May 2020 - June 2021</b>
       </li>
       <li>
         <b>Executive Community Member</b> - <b>Aug 2019 - May 2020</b>
