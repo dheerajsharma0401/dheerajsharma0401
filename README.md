@@ -12,7 +12,7 @@ I like to Code, Innovate and Experiment. I am an enthusiastic and a social perso
 # Experience
 <ul>
   <li>
-      <h4> VariantLabs LLC </h4> 
+      VariantLabs LLC  
     <ul>
       <li>
         <b>Software Intern </b> - <b>March 2022 - Present</b>
