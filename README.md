@@ -18,8 +18,6 @@ I like to Code, Innovate and Experiment. I am an enthusiastic and a social perso
         <b>Software Intern </b> - <b>March 2022 - Present</b>
       </li>
     </ul>
-  <li>  
-  <li>
     <a href="https://www.tatacommunications.com/">Tata Communications</a> - 
     <ul>
       <li>
