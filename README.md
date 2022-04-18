@@ -4,7 +4,7 @@
 </p>
 <hr/>
 <h4 align="center">I am a Final Year student at Vishwakarma Institute of Technology ,Pune currently pursuing Bachelors in Information Technology.
-I like to Code, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Currently I am learning Web Development.</h4>
+I like to Code, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dheerajsharma0401&label=Dheeraj's%20Profile%20Views%20&color=dc143c&style=plastic" alt="dheerajsharma0401" /> </p>
 
