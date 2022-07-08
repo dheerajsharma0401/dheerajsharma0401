@@ -15,7 +15,7 @@ I like to Code, Innovate and Experiment. I am an enthusiastic and a social perso
       VariantLabs LLC  
     <ul>
       <li>
-        <b>Software Intern </b> - <b>March 2022 - Present</b>
+        <b>Software Intern </b> - <b>March 2022 - June 2022 </b>
       </li>
     </ul>
     <li>
